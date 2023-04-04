@@ -226,3 +226,4 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact mysql:mysql-c
 2023-04-04 14:28:33,938 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\HibernateLiveSession\HibernateEHCacheExample\src\test\resources
 2023-04-04 14:47:12,601 [Worker-17: http://download.oracle.com/otn_software/oepe/12.2.1.9/photon/repository/dependencies/compositeArtifacts.jar] INFO  o.a.h.c.h.i.c.HttpRequestRetryExec - Recoverable I/O exception (java.net.SocketException) caught when processing request to {s}->https://download.oracle.com:443
 2023-04-04 14:48:52,082 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-04-04 15:48:12,964 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
