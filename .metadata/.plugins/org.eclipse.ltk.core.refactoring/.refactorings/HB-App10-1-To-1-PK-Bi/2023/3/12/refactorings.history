@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.example.one.to.one.bi.main.CreateRecord&apos; to &apos;SelectRecord&apos;&#x0D;&#x0A;- Original project: &apos;HB-App10-1-To-1-PK-Bi&apos;&#x0D;&#x0A;- Original element: &apos;com.example.one.to.one.bi.main.CreateRecord&apos;&#x0D;&#x0A;- Renamed element: &apos;com.example.one.to.one.bi.main.SelectRecord&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;CreateRecord&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.example.one.to.one.bi.main{CreateRecord.java[CreateRecord" matchStrategy="1" name="SelectRecord" qualified="false" references="true" similarDeclarations="false" stamp="1679380475529" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.example.cpk.anno.bean.UserPK"/>
+    <fullyQualifiedTypeName name="com.example.cpk.anno.bean.User"/>
+    <fullyQualifiedTypeName name="com.example.one.to.one.bi.util.SessionUtil"/>
+    <fullyQualifiedTypeName name="com.example.one.to.one.bi.bean.Instructor"/>
+    <fullyQualifiedTypeName name="com.example.one.to.one.bi.bean.InstructorDetail"/>
+</qualifiedTypeNameHistroy>
